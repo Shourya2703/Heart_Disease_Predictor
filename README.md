@@ -27,3 +27,6 @@ Built with **FastAPI (backend)**, **TensorFlow (ML model)**, and **React (fronte
 1. Clone repo & install dependencies:
    ```bash
    pip install -r requirements.txt
+   <img width="1183" height="588" alt="image" src="https://github.com/user-attachments/assets/9249fff6-6741-4ead-b7a3-d25492d9c3d0" />
+   
+
